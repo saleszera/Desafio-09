@@ -142,7 +142,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 ### 🎥️ Captura de tela
   <div align="center">
-	  <a data-flickr-embed="true" href="https://www.flickr.com/photos/192024281@N02/50909322658/in/dateposted-public/" title="desafio09"><img src="https://live.staticflickr.com/65535/50909322658_925e3e7cfa_b.jpg" width="957" height="533" alt="desafio09"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	  <img src="https://live.staticflickr.com/65535/50909322658_925e3e7cfa_b.jpg" width="957" height="533" alt="desafio09"/> 
   </div>
 
 ---
